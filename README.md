@@ -14,6 +14,7 @@ http://dados.gov.br/dataset/sisagua-tratamento-de-agua
 
 # Bibliotecas: 
   Antes de Executar, instalar pelo Prompt de Comando:
+  
 pip install requests beautifulsoup4 spotipy pdfminer3k selenium twitter wbdata pandas matplotlib lxml tweepy uber-rides xlrd PyPDF2 pytrends seaborn numpy ipython jupyter
 
 
